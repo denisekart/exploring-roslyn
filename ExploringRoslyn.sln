@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoConsoleApp", "src\DemoConsoleApp\DemoConsoleApp.csproj", "{FF26539F-1496-456B-BBE5-4A5B764C8E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyLinesAnalyzerAndCodeFix", "src\EmptyLinesAnalyzerAndCodeFix\EmptyLinesAnalyzerAndCodeFix.csproj", "{BBF66694-9029-409B-BA0B-71D0875A9DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF26539F-1496-456B-BBE5-4A5B764C8E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF26539F-1496-456B-BBE5-4A5B764C8E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF26539F-1496-456B-BBE5-4A5B764C8E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF26539F-1496-456B-BBE5-4A5B764C8E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF66694-9029-409B-BA0B-71D0875A9DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF66694-9029-409B-BA0B-71D0875A9DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF66694-9029-409B-BA0B-71D0875A9DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF66694-9029-409B-BA0B-71D0875A9DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
