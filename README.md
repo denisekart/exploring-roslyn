@@ -2,6 +2,12 @@
 
 This repository contains the demo code from the article series [Exploring Roslyn](https://denace.dev/series/exploring-roslyn).
 
+For your convenience, here are the articles:
+
+- [Exploring Roslyn .NET Compiler Platform SDK](https://denace.dev/exploring-roslyn-net-compiler-platform-sdk)
+- [Getting Started With Roslyn Analyzers](https://denace.dev/getting-started-with-roslyn-analyzers)
+- [Fixing Mistakes With Roslyn Code Fixes](https://denace.dev/fixing-mistakes-with-roslyn-code-fixes)
+
 ## Getting started
 
 To get started with this solution, 
