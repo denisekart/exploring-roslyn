@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoConsoleApp", "src\DemoC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyLinesAnalyzerAndCodeFix", "src\EmptyLinesAnalyzerAndCodeFix\EmptyLinesAnalyzerAndCodeFix.csproj", "{BBF66694-9029-409B-BA0B-71D0875A9DDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynTests", "src\RoslynTests\RoslynTests.csproj", "{4DAF35EE-C684-4652-B3DD-EB6E395421C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{BBF66694-9029-409B-BA0B-71D0875A9DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBF66694-9029-409B-BA0B-71D0875A9DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBF66694-9029-409B-BA0B-71D0875A9DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DAF35EE-C684-4652-B3DD-EB6E395421C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAF35EE-C684-4652-B3DD-EB6E395421C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAF35EE-C684-4652-B3DD-EB6E395421C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAF35EE-C684-4652-B3DD-EB6E395421C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
